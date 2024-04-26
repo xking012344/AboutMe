@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Xavier Harding</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">My name is Xavier.
+    \n\n I love to play video games.
+    \n My favorite kind of games are strategy/role playing games and racing games.
+        \n I would say my favorite strategy/role playing games are fire emblem and pokemon
+        \n My favorite racing game is Mario Kart 8 Deluxe
+        \n I also like to play multiplayer/party games and even fighting games
+        \n Some I like to play include Smash Bros, Mario Party, DB FighterZ, and Mario and Sonic at the Olympic Games
+    \n\n Aside from gaming on nintendo I also like to game on playstation
+        \n Some playstation games I like are God of War, Ghost of Tsushima, Spider-Man, and Monster Hunter World.
+    \n\n I also like to watch movies.
+    \n My favorite movie character is Godzilla (hes more of a monster than a character but you get the point).
+        \n My favorite Godzilla movie is Godzilla King of the Monsters (2019).
+        \n I'd even say that it's one of my favorite movies of all time
+        \n\n I also love to listen to music
+        \n\n I also like to eat food and have a really big appetite ;).\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
